@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25319
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23264#The-Settlers-at-Home
 gutenberg_issued: '2007-10-31'
 gutenberg_type: Text
 identifiers:
